@@ -9,7 +9,7 @@
 #if !defined( HUD_IFACEH )
 #define HUD_IFACEH
 
-#include "exportdef.h"
+//#include "exportdef.h"
 // redefine
 // typedef int (*pfnUserMsgHook)( const char *pszName, int iSize, void *pbuf );
 #include "wrect.h"

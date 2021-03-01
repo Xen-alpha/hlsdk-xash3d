@@ -13,6 +13,8 @@
 *
 ****/
 #pragma once
+#include <common\mathlib.h>
+#include <common\cl_entity.h>
 #ifndef PM_TRACE_H
 #define PM_TRACE_H
 

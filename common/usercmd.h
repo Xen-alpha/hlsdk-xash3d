@@ -16,6 +16,8 @@
 #ifndef USERCMD_H
 #define USERCMD_H
 
+#include <common/cl_entity.h>
+
 typedef struct usercmd_s
 {
 	short		lerp_msec;	// Interpolation time on client

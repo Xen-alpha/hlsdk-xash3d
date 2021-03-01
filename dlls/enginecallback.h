@@ -17,7 +17,7 @@
 
 #pragma once
 
-#include "event_flags.h"
+#include "common/event_flags.h"
 
 // Fix warning in MSVC8
 #undef SERVER_EXECUTE

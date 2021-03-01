@@ -11,11 +11,11 @@
 #ifndef M_PI
 #define M_PI 3.141592653589
 #endif
-
+/*
 inline float DotProduct(float *x, float *y)
 {
 #ifndef SSE
-	return (x[0]*y[0]+x[1]*y[1]+x[2]*y[2]);
+	return (x[0] * y[0] + x[1] * y[1] + x[2] * y[2]);
 #else
 	float result;
 	DotProductSSE(&result, x, y);
@@ -28,7 +28,7 @@ inline float DotProduct(float *x, float *y)
 #define VectorCopy(a,b) {(b)[0]=(a)[0];(b)[1]=(a)[1];(b)[2]=(a)[2];}
 #define VectorMultiply(a,b,c) {(c)[0]=(a)[0]*(b);(c)[1]=(a)[1]*(b);(c)[2]=(a)[2]*(b);}
 #define VectorClear(a) {(a)[0]=0.0;(a)[1]=0.0;(a)[2]=0.0;}
-
+*/
 inline void VectorMA(float *a, float scale, float *b, float *c)
 {
 #ifndef SSE
@@ -39,9 +39,9 @@ inline void VectorMA(float *a, float scale, float *b, float *c)
 	VectorMASSE(a, scale, b, c);
 #endif
 }
-
+/*
 #define CrossProduct(a,b,c) ((c)[0]=(a)[1]*(b)[2]-(a)[2]*(b)[1],(c)[1]=(a)[2]*(b)[0]-(a)[0]*(b)[2],(c)[2]=(a)[0]*(b)[1]-(a)[1]*(b)[0])
-
+*/
 inline void VectorScale(float *a, float b)
 {
 #ifndef SSE
@@ -61,7 +61,7 @@ inline float VectorLength(float *a)
 	return VectorLengthSSE(a);
 #endif
 }
-
+/*
 inline void VectorNormalize(float *a)
 {
 #ifndef SSE
@@ -73,7 +73,7 @@ inline void VectorNormalize(float *a)
 	return VectorNormalizeSSE(a);
 #endif
 }
-
+*/
 inline float VectorAngle(vec3_t a, vec3_t b)
 {
     float la = VectorLength(a);
@@ -84,12 +84,12 @@ inline float VectorAngle(vec3_t a, vec3_t b)
 	else
 		return (double)(acos(DotProduct(a,b)/lab) * (180/M_PI));
 }
-
+/*
 wchar_t *UTF8ToUnicode( const char* str );
 wchar_t *ANSIToUnicode( const char* str );
 char *UnicodeToANSI( const wchar_t* str );
 char *UnicodeToUTF8( const wchar_t* str );
-
+*/
 char *UTIL_VarArgs(char *format, ...);
 
 #define va UTIL_VarArgs

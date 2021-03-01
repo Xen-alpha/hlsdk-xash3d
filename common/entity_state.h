@@ -13,6 +13,7 @@
 *
 ****/
 #pragma once
+#include <common/mathlib.h>
 #ifndef ENTITY_STATE_H
 #define ENTITY_STATE_H
 
@@ -119,7 +120,7 @@ struct entity_state_s
 	vec3_t		vuser4;
 };
 
-#include "pm_info.h"
+#include "pm_shared/pm_info.h"
 
 typedef struct clientdata_s
 {

@@ -13,6 +13,8 @@
 *
 ****/
 #pragma once
+#include <common\mathlib.h>
+#include <common\cl_entity.h>
 #ifndef REF_PARAMS_H
 #define REF_PARAMS_H
 

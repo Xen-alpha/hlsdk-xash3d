@@ -1,0 +1,592 @@
+﻿  Building Custom Rule C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/dlls/CMakeLists.txt
+  buildable.cpp
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C3646: 'normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C3646: 'v_forward': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C3646: 'v_up': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C3646: 'v_right': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C3646: 'trace_endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C3646: 'trace_plane_normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C3646: 'origin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C3646: 'oldorigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C3646: 'velocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C3646: 'basevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C3646: 'clbasevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C3646: 'movedir': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C3646: 'angles': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C3646: 'avelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C3646: 'punchangle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C3646: 'v_angle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C3646: 'startpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C3646: 'absmin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C3646: 'absmax': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C3646: 'mins': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C3646: 'maxs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C3646: 'size': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C3646: 'rendercolor': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C3646: 'view_ofs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C3646: 'vuser1': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C3646: 'vuser2': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C3646: 'vuser3': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C3646: 'vuser4': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C3646: 'vecEndPos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C3646: 'vecPlaneNormal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C3646: 'vecLandmarkOrigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(443,139): error C2061: 구문 오류: 식별자 'vec3_t'
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(184,45): error C2039: 'velocity': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(184,57): error C2065: 'g_vecZero': 선언되지 않은 식별자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(326,42): error C2039: 'absmax': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(326,56): error C2039: 'absmin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(327,45): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(327,59): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(328,45): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(328,59): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\player.h(213,78): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\UF\buildable.h(40,30): error C2065: 'CLASS_BUILDABLE': 선언되지 않은 식별자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\UF\buildable.h(127,34): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\UF\buildable.h(171,34): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(74,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(75,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(76,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(93,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(94,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(95,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(152,8): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(157,8): error C2039: 'angles': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(190,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(191,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(192,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(957,8): error C2039: 'absmin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(957,22): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(958,8): error C2039: 'absmax': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(958,22): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(31,15): error C2039: 'm_iTeam': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(39,17): error C2039: 'BuildKilled': 'CGameRules'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(61): message : 'CGameRules' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(60,17): error C2039: 'm_pCarryBuild': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(69,33): error C2065: 'gmsgDrawFX': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\buildable.cpp(70,15): error C2065: 'FX_EXPLOSION_MIDAIR': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\buildable.cpp(71,21): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(72,21): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(73,21): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(81,15): error C2039: 'm_pBuildable': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(89,12): error C2027: 정의되지 않은 형식 'CBuildSapper'을(를) 사용했습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\UF\buildable.h(17): message : 'CBuildSapper' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(105,26): error C2039: 'vecEndPos': 'TraceResult'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(66): message : 'TraceResult' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(107,67): error C2660: 'AddMultiDamage': 함수는 5개의 인수를 사용하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(381,13): message : 'AddMultiDamage' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(128,13): error C2027: 정의되지 않은 형식 'CBuildSapper'을(를) 사용했습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\UF\buildable.h(17): message : 'CBuildSapper' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(137,15): error C2039: 'm_iMetal': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(139,31): error C2039: 'm_iMetal': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(141,43): error C2039: 'm_iMetal': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(142,29): error C2039: 'm_iMetal': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(145,13): error C2039: 'AddPlayerMetal': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(172,7): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(173,27): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(173,33): error C2660: 'UTIL_SetOrigin': 함수는 1개의 인수를 사용하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\util.h(260,15): message : 'UTIL_SetOrigin' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(178,7): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(182,7): error C2039: 'angles': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(198,30): error C2065: 'TEAM_RED': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\buildable.cpp(199,26): error C2065: 'TEAM_RED': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\buildable.cpp(217,16): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(221,16): error C2039: 'angles': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(224,50): error C2039: 'm_iTeam': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(227,10): error C2039: 'm_pBuildable': 'CBasePlayer'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\gamerules.h(24): message : 'CBasePlayer' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(239,50): error C2065: 'CLASSNAME': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\buildable.cpp(239,2): error C3861: 'AddEntityHashValue': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\buildable.cpp(241,7): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(247,7): error C2039: 'mins': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(248,7): error C2039: 'maxs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(256,27): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(256,33): error C2660: 'UTIL_SetOrigin': 함수는 1개의 인수를 사용하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\util.h(260,15): message : 'UTIL_SetOrigin' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(272,60): error C2039: 'angles': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(276,36): error C2039: 'angles': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\buildable.cpp(276,42): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  wpn_bat.cpp
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C3646: 'normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C3646: 'v_forward': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C3646: 'v_up': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C3646: 'v_right': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C3646: 'trace_endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C3646: 'trace_plane_normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C3646: 'origin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C3646: 'oldorigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C3646: 'velocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C3646: 'basevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C3646: 'clbasevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C3646: 'movedir': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C3646: 'angles': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C3646: 'avelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C3646: 'punchangle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C3646: 'v_angle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C3646: 'startpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C3646: 'absmin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C3646: 'absmax': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C3646: 'mins': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C3646: 'maxs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C3646: 'size': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C3646: 'rendercolor': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C3646: 'view_ofs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C3646: 'vuser1': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C3646: 'vuser2': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C3646: 'vuser3': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C3646: 'vuser4': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C3646: 'vecEndPos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C3646: 'vecPlaneNormal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C3646: 'vecLandmarkOrigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(443,139): error C2061: 구문 오류: 식별자 'vec3_t'
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(184,45): error C2039: 'velocity': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(184,57): error C2065: 'g_vecZero': 선언되지 않은 식별자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(326,42): error C2039: 'absmax': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(326,56): error C2039: 'absmin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(327,45): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(327,59): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(328,45): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(328,59): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\player.h(213,78): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(74,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(75,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(76,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(93,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(94,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(95,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(152,8): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(157,8): error C2039: 'angles': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(190,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(191,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(192,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(957,8): error C2039: 'absmin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(957,22): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(958,8): error C2039: 'absmax': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(958,22): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\wpn_bat.cpp(10,1): error C2065: 'CBat': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(10,1): error C2059: 구문 오류: ')'
+..\..\dlls\UF\wpn_bat.cpp(24,6): error C2653: 'CBat': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bat.cpp(26,2): error C3861: 'Precache': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bat.cpp(27,2): error C2065: 'm_iId': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(27,10): error C2065: 'WEAPON_BAT': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(28,16): error C2065: 'pev': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(29,2): error C2065: 'pev': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(30,2): error C2065: 'm_iClip': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(31,2): error C3861: 'FallInit': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bat.cpp(34,6): error C2653: 'CBat': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bat.cpp(41,2): error C2065: 'm_usFireScript': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(44,5): error C2653: 'CBat': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bat.cpp(46,15): error C2065: 'pev': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(54,11): error C2065: 'WEAPON_BAT': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(56,15): error C2065: 'BAT_WEIGHT': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(61,6): error C2653: 'CBat': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bat.cpp(63,2): error C2065: 'm_iShotsFired': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(65,9): error C3861: 'GroupDeploy': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bat.cpp(68,6): error C2653: 'CBat': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bat.cpp(70,2): error C2065: 'm_bMeleeAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(73,6): error C2653: 'CBat': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bat.cpp(75,2): error C2065: 'm_flMeleeAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(76,2): error C2065: 'm_iMeleeCrit': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(76,17): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(76,47): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(77,2): error C2065: 'm_bMeleeAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(78,11): error C2065: 'm_iShotsFired': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(80,38): error C3861: 'UseDecrement': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bat.cpp(80,11): error C3861: 'SendWeaponAnim': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bat.cpp(81,38): error C3861: 'UseDecrement': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bat.cpp(81,11): error C3861: 'SendWeaponAnim': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bat.cpp(83,2): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(84,2): error C2065: 'm_flNextPrimaryAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(87,6): error C2653: 'CBat': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bat.cpp(89,19): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(90,18): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(91,38): error C2039: 'v_forward': 'globalvars_t'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(20): message : 'globalvars_t' 선언을 참조하십시오.
+..\..\dlls\UF\wpn_bat.cpp(93,35): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(93,55): error C2065: 'm_usFireScript': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(93,84): error C2065: 'g_vecZero': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bat.cpp(93,93): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  wpn_bonesaw.cpp
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C3646: 'normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C3646: 'v_forward': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C3646: 'v_up': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C3646: 'v_right': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C3646: 'trace_endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C3646: 'trace_plane_normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C3646: 'origin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C3646: 'oldorigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C3646: 'velocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C3646: 'basevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C3646: 'clbasevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C3646: 'movedir': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C3646: 'angles': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C3646: 'avelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C3646: 'punchangle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C3646: 'v_angle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C3646: 'startpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C3646: 'absmin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C3646: 'absmax': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C3646: 'mins': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C3646: 'maxs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C3646: 'size': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C3646: 'rendercolor': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C3646: 'view_ofs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C3646: 'vuser1': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C3646: 'vuser2': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C3646: 'vuser3': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C3646: 'vuser4': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C3646: 'vecEndPos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C3646: 'vecPlaneNormal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C3646: 'vecLandmarkOrigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(443,139): error C2061: 구문 오류: 식별자 'vec3_t'
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(184,45): error C2039: 'velocity': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(184,57): error C2065: 'g_vecZero': 선언되지 않은 식별자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(326,42): error C2039: 'absmax': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(326,56): error C2039: 'absmin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(327,45): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(327,59): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(328,45): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\cbase.h(328,59): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\player.h(213,78): error C2039: 'view_ofs': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(74,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(75,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(76,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(93,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(94,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(95,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(152,8): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(157,8): error C2039: 'angles': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(190,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(191,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\effects.h(192,8): error C2039: 'rendercolor': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(957,8): error C2039: 'absmin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(957,22): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(958,8): error C2039: 'absmax': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\.\weapons.h(958,22): error C2039: 'origin': 'entvars_s'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(55): message : 'entvars_s' 선언을 참조하십시오.
+..\..\dlls\UF\wpn_bonesaw.cpp(10,1): error C2065: 'CBonesaw': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(10,1): error C2059: 구문 오류: ')'
+..\..\dlls\UF\wpn_bonesaw.cpp(25,6): error C2653: 'CBonesaw': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(27,2): error C3861: 'Precache': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(28,2): error C2065: 'm_iId': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(28,10): error C2065: 'WEAPON_BONESAW': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(29,16): error C2065: 'pev': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(30,2): error C2065: 'pev': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(31,2): error C2065: 'm_iClip': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(32,2): error C3861: 'FallInit': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(35,6): error C2653: 'CBonesaw': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(41,2): error C2065: 'm_usFireScript': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(44,5): error C2653: 'CBonesaw': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(46,15): error C2065: 'pev': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(54,11): error C2065: 'WEAPON_BONESAW': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(56,15): error C2065: 'BONESAW_WEIGHT': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(61,6): error C2653: 'CBonesaw': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(63,2): error C2065: 'm_iShotsFired': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(65,9): error C3861: 'GroupDeploy': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(68,6): error C2653: 'CBonesaw': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(70,2): error C2065: 'm_bMeleeAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(73,6): error C2653: 'CBonesaw': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(75,2): error C2065: 'm_flMeleeAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(76,2): error C2065: 'm_iMeleeCrit': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(76,17): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(76,47): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(77,2): error C2065: 'm_bMeleeAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(78,35): error C2065: 'm_iShotsFired': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(78,57): error C3861: 'UseDecrement': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(78,2): error C3861: 'SendWeaponAnim': 식별자를 찾을 수 없습니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(79,2): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(80,2): error C2065: 'm_flNextPrimaryAttack': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(83,6): error C2653: 'CBonesaw': 클래스 또는 네임스페이스 이름이 아닙니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(85,19): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(86,18): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(87,38): error C2039: 'v_forward': 'globalvars_t'의 멤버가 아닙니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(20): message : 'globalvars_t' 선언을 참조하십시오.
+..\..\dlls\UF\wpn_bonesaw.cpp(89,35): error C2065: 'm_pPlayer': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(89,55): error C2065: 'm_usFireScript': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(89,84): error C2065: 'g_vecZero': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(89,105): error C2065: 'g_vecZero': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(89,116): error C2065: 'm_iMeleeCrit': 선언되지 않은 식별자입니다.
+..\..\dlls\UF\wpn_bonesaw.cpp(89,128): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  wpn_bottle.cpp
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C3646: 'normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(770,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\common\const.h(780,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C3646: 'v_forward': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(31,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C3646: 'v_up': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(32,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C3646: 'v_right': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(33,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C3646: 'trace_endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(37,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C3646: 'trace_plane_normal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(38,28): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(52,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C3646: 'origin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(60,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C3646: 'oldorigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(61,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C3646: 'velocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(62,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C3646: 'basevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(63,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C3646: 'clbasevelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(64,24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C3646: 'movedir': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(66,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C3646: 'angles': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(68,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C3646: 'avelocity': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(69,19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C3646: 'punchangle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(70,20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C3646: 'v_angle': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(71,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C3646: 'endpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(74,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C3646: 'startpos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(75,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C3646: 'absmin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(91,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C3646: 'absmax': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(92,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C3646: 'mins': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(93,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C3646: 'maxs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(94,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C3646: 'size': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(95,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C3646: 'rendercolor': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(122,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C3646: 'view_ofs': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(131,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C3646: 'vuser1': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(208,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C3646: 'vuser2': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(209,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C3646: 'vuser3': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(210,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C3646: 'vuser4': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\progdefs.h(211,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C3646: 'vecEndPos': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(72,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C3646: 'vecPlaneNormal': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(74,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C3646: 'vecLandmarkOrigin': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(289,26): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C3646: 'vecLandmarkOffset': 알 수 없는 재정의 지정자입니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(329,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\hky75\Documents\GitHub\hlsdk-xash3d\dlls\..\engine\eiface.h(443,139): error C2061: 구문 오류: 식별자 'vec3_t'

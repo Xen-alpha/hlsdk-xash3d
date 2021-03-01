@@ -1,0 +1,9 @@
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/CMakeFiles/INSTALL.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/CMakeFiles/ALL_BUILD.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/CMakeFiles/ZERO_CHECK.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/cl_dll/CMakeFiles/client.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/cl_dll/CMakeFiles/INSTALL.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/cl_dll/CMakeFiles/ALL_BUILD.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/dlls/CMakeFiles/server.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/dlls/CMakeFiles/INSTALL.dir
+C:/Users/hky75/Documents/GitHub/hlsdk-xash3d/project/dlls/CMakeFiles/ALL_BUILD.dir

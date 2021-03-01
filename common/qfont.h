@@ -15,7 +15,7 @@
 #pragma once
 #ifndef QFONT_H
 #define QFONT_H
-
+#include <common/cl_entity.h>
 // Font stuff
 
 #define NUM_GLYPHS		256

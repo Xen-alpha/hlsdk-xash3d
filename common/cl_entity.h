@@ -13,8 +13,18 @@
 *
 ****/
 #pragma once
+
 #ifndef CL_ENTITY_H
 #define CL_ENTITY_H
+
+typedef int qboolean;
+typedef unsigned char byte;
+
+#ifdef CLIENT_DLL
+#include <util_vector.h>
+
+#endif
+#include <common/const.h>
 
 typedef struct efrag_s
 {

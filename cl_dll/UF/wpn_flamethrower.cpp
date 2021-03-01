@@ -1,9 +1,9 @@
 
 #include "client.h"
 #include "weapon.h"
-#include "event_api.h"
+#include "common/event_api.h"
 #include "util.h"
-#include <event_flags.h>
+#include <common/event_flags.h>
 
 void CClientFlamethrower::Precache(void)
 {

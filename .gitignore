@@ -24,3 +24,15 @@ waf3-*
 .lock*
 *.pyc
 .vscode/
+.tlog
+.suo
+.db
+.db-*
+.opendb
+.ipch
+.obj
+.log
+.lastbuildstate
+.rule
+.cmake
+.bin

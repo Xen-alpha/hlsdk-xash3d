@@ -22,10 +22,14 @@ extern float *ev_punchangle;
 extern cl_enginefunc_t gEngfuncs;
 extern ref_params_s refparams;
 
+extern playermove_t* pmove;
+
 extern int g_rseq;
 extern int g_gaitseq;
 extern vec3_t g_clorg;
 extern vec3_t g_clang;
+
+cl_entity_t* g_pTraceEntity;
 
 int	g_runfuncs = 0;
 local_state_t *g_finalstate = NULL;

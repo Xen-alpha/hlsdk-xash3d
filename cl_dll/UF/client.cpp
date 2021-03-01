@@ -1,9 +1,5 @@
-//#include <metahook.h>
-//#include "plugins.h"
-//#include "exportfuncs.h"
-//#include "engfuncs.h"
 #include "client.h"
-//#include "util.h"
+
 #include "cvardef.h"
 #include "event_api.h"
 #include <util_vector.h>
@@ -16,6 +12,10 @@
 #include <cl_util.h>
 #include <entity_types.h>
 #include <r_studioint.h>
+#include <ref_int.h>
+#include <UF\util.h>
+
+extern playermove_t* pmove;
 
 int g_iUser1 = 0;
 int g_iUser2 = 0;
@@ -25,6 +25,10 @@ cvar_t* gHUD_m_pip = NULL;
 extern ref_params_s refparams;
 extern engine_studio_api_t IEngineStudio;
 extern cl_enginefunc_t gEngfuncs;
+
+extern cl_entity_t* g_pTraceEntity;
+
+float g_flTraceDistance;
 
 extern bool g_bGameUIActivate;
 
@@ -328,7 +332,7 @@ void CL_TraceEntity(void)
 
 	//call PM_PlayerTrace
 	tr = pmove->PM_TraceLineEx(vecSrc, vecDest, PM_NORMAL, 2, CL_TraceEntity_Ignore );
-	/*
+	
 	g_pTraceEntity = NULL;
 	if(tr->ent)
 	{
@@ -346,7 +350,7 @@ void CL_TraceEntity(void)
 	float dist = VectorLength(vecDest);
 
 	g_flTraceDistance = dist;
-	*/
+	
 }
 
 void CL_CreateTempEntity(cl_entity_t *pEntity, model_t *mod)

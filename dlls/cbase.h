@@ -29,6 +29,7 @@ CBaseEntity
 				CBaseGroup
 */
 
+
 #define		MAX_PATH_SIZE	10 // max number of nodes available for a path.
 
 // These are caps bits to indicate what an object's capabilities (currently used for save/restore and level transitions)
@@ -55,6 +56,17 @@ CBaseEntity
 // C functions for external declarations that call the appropriate C++ methods
 
 #include "exportdef.h"
+#include <engine\eiface.h>
+#include <engine\edict.h>
+#include "util.h"
+#ifndef CLIENT_DLL
+extern vec3_t g_vecZero;
+#include "enginecallback.h"
+#else
+#include <UF\weapon.h>
+#endif
+extern globalvars_t* gpGlobals;
+
 
 extern "C" EXPORT int GetEntityAPI( DLL_FUNCTIONS *pFunctionTable, int interfaceVersion );
 extern "C" EXPORT int GetEntityAPI2( DLL_FUNCTIONS *pFunctionTable, int *interfaceVersion );
@@ -193,7 +205,7 @@ public:
 	virtual BOOL IsAlive( void ) { return (pev->deadflag == DEAD_NO) && pev->health > 0; }
 	virtual BOOL IsBSPModel( void ) { return pev->solid == SOLID_BSP || pev->movetype == MOVETYPE_PUSHSTEP; }
 	virtual BOOL ReflectGauss( void ) { return ( IsBSPModel() && !pev->takedamage ); }
-	virtual BOOL HasTarget( string_t targetname ) { return FStrEq(STRING(targetname), STRING(pev->targetname) ); }
+	virtual BOOL HasTarget( string_t targetname ) { return FStrEq( STRING(targetname), STRING(pev->targetname) ); }
 	virtual BOOL IsInWorld( void );
 	virtual	BOOL IsPlayer( void ) { return FALSE; }
 	virtual BOOL IsNetClient( void ) { return FALSE; }
