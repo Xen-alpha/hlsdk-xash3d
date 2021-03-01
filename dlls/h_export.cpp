@@ -24,7 +24,6 @@
 #include "util.h"
 
 #include "cbase.h"
-//#include <engine/progdefs.h>
 
 // Holds engine functionality callbacks
 enginefuncs_t	 g_engfuncs;

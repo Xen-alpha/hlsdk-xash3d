@@ -29,15 +29,11 @@
 #ifndef M_PI
 #define M_PI		3.14159265358979323846	// matches value in gcc v2 math.h
 #endif
-#include <common\mathlib.h>
 
 #ifndef M_PI_F
 #define M_PI_F		(float)M_PI
 #endif
-#include <engine\progdefs.h>
 extern vec3_t vec3_origin;
-
-globalvars_t* gpGlobals;
 
 // if C++ mangling differs from C symbol name
 #if defined _MSC_VER || defined __WATCOMC__

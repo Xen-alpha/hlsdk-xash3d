@@ -19,9 +19,8 @@
 #define MAX_ENT_LEAFS	48
 
 #include "progdefs.h"
-#include <common\cl_entity.h>
 
-typedef struct edict_s
+struct edict_s
 {
 	qboolean		free;
 	int		serialnumber;
@@ -38,6 +37,6 @@ typedef struct edict_s
 	entvars_t		v;		// C exported fields from progs
 
 	// other fields from progs come immediately after
-}edict_t;
+};
 
 #endif//EDICT_H

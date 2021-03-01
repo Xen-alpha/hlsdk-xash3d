@@ -62,11 +62,9 @@ typedef unsigned char byte;
 #include "activitymap.h"
 #include "animation.h"
 #include "scriptevent.h"
-#include "engine/studio.h"
+#include "studio.h"
 #define VectorCopy(a,b) {(b)[0]=(a)[0];(b)[1]=(a)[1];(b)[2]=(a)[2];}
 #endif
-#include <engine\eiface.h>
-#include <common\studio_event.h>
 
 #pragma warning( disable : 4244 )
 

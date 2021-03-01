@@ -1,4 +1,4 @@
-//========= Copyright ï¿½ 1996-2002, Valve LLC, All rights reserved. ============
+//========= Copyright © 1996-2002, Valve LLC, All rights reserved. ============
 //
 // Purpose: 
 //
@@ -7,8 +7,6 @@
 
 // com_model.h
 #pragma once
-#include <common\mathlib.h>
-#include <common/const.h>
 #if !defined( COM_MODEL_H )
 #define COM_MODEL_H
 
@@ -308,7 +306,7 @@ typedef struct auxvert_s
 	float	fv[3];		// viewspace x, y
 } auxvert_t;
 
-#include "engine/custom.h"
+#include "custom.h"
 
 #define	MAX_INFO_STRING			256
 #define	MAX_SCOREBOARDNAME		32

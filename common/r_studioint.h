@@ -13,9 +13,6 @@
 *
 ****/
 #pragma once
-#include <engine/progdefs.h>
-#include <engine\edict.h>
-#undef vec3_t
 #ifndef R_STUDIOINT_H
 #define R_STUDIOINT_H
 

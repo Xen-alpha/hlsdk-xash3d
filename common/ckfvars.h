@@ -1,12 +1,11 @@
 
 #ifndef CKFVARS_DEFINED
 #define CKFVARS_DEFINED
-#include <minwindef.h>
-#include <engine/progdefs.h>
+
+#include <progdefs.h>
 #include "cl_entity.h"
-#ifndef CLIENT_DLL
 #include <extdll.h>
-#endif
+
 class CClientBuildable
 {
 public:
@@ -234,7 +233,7 @@ enum
 	kRenderFxInvulnLayer
 };
 
-#include <pm_shared/pm_defs.h>
+#include <pm_defs.h>
 
 typedef struct
 {

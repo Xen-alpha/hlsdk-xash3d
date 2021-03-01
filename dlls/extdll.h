@@ -89,15 +89,15 @@ typedef float vec_t;				// needed before including progdefs.h
 #include "vector.h"
 
 // Defining it as a (bogus) struct helps enforce type-checking
-//#define vec3_t Vector
+#define vec3_t Vector
 
 // Shared engine/DLL constants
-#include "common/const.h"
-#include "engine/progdefs.h"
-#include "engine/edict.h"
+#include "const.h"
+#include "progdefs.h"
+#include "edict.h"
 
 // Shared header describing protocol between engine and DLLs
-#include "engine/eiface.h"
+#include "eiface.h"
 
 // Shared header between the client DLL and the game DLLs
 #include "cdll_dll.h"

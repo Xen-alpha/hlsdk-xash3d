@@ -1,8 +1,8 @@
 #pragma once
 
-//#include <cl_dll.h>
+#include <cl_dll.h>
 
-extern vec3_t g_vecZero;
+extern Vector g_vecZero;
 
 #define MAX_WEAPON_SLOTS 5
 

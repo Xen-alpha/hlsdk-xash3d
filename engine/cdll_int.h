@@ -26,7 +26,7 @@
 extern "C" {
 #endif
 
-#include "common/const.h"
+#include "const.h"
 
 #define MAX_ALIAS_NAME	32
 

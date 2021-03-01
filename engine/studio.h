@@ -265,7 +265,7 @@ typedef struct
 } mstudioseqdesc_t;
 
 // events
-#include "common/studio_event.h"
+#include "studio_event.h"
 
 // pivots
 typedef struct 

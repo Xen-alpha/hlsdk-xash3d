@@ -15,7 +15,6 @@
 #pragma once
 #ifndef SHAKE_H
 #define SHAKE_H
-#include <common/cl_entity.h>
 
 // Screen / View effects
 

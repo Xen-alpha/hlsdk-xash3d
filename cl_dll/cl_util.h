@@ -17,14 +17,8 @@
 //
 #ifndef CL_UTIL_H
 #define CL_UTIL_H
-//#include "exportdef.h"
-#include "common/cvardef.h"
-#include "common/mathlib.h"
-
-#ifdef CLIENT_DLL
-#include "hud.h"
-extern cl_enginefunc_t gEngfuncs;
-#endif
+#include "exportdef.h"
+#include "cvardef.h"
 
 #ifndef TRUE
 #define TRUE 1
@@ -164,7 +158,7 @@ void ScaleColors( int &r, int &g, int &b, int a );
 #define VectorSubtract(a, b, c) { (c)[0] = (a)[0] - (b)[0]; (c)[1] = (a)[1] - (b)[1]; (c)[2] = (a)[2] - (b)[2]; }
 #define VectorAdd(a, b, c) { (c)[0] = (a)[0] + (b)[0]; (c)[1] = (a)[1] + (b)[1]; (c)[2] = (a)[2] + (b)[2]; }
 #define VectorCopy(a, b) { (b)[0] = (a)[0]; (b)[1] = (a)[1]; (b)[2] = (a)[2]; }
-//inline void VectorClear( float *a ) { a[0] = 0.0; a[1] = 0.0; a[2] = 0.0; }
+inline void VectorClear( float *a ) { a[0] = 0.0; a[1] = 0.0; a[2] = 0.0; }
 float Length( const float *v );
 void VectorMA( const float *veca, float scale, const float *vecb, float *vecc );
 void VectorScale( const float *in, float scale, float *out );

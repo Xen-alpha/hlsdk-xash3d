@@ -15,7 +15,6 @@
 #pragma once
 #ifndef SCREENFADE_H
 #define SCREENFADE_H
-#include <common/cl_entity.h>
 
 typedef struct screenfade_s
 {

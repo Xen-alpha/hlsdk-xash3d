@@ -13,14 +13,9 @@
 *
 ****/
 #pragma once
-
 #ifndef PROGDEFS_H
 #define PROGDEFS_H
 
-#include <common/mathlib.h>
-#include <engine\edict.h>
-
-#define vec3_t Vector
 typedef struct
 {	
 	float		time;

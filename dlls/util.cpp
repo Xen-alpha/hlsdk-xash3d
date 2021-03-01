@@ -21,15 +21,15 @@
 */
 
 #include "extdll.h"
+#include "util.h"
 #include "cbase.h"
 #include "saverestore.h"
 #include <time.h>
-#include "engine/shake.h"
+#include "shake.h"
 #include "decals.h"
 #include "player.h"
 #include "weapons.h"
 #include "gamerules.h"
-#include "enginecallback.h"
 
 float UTIL_WeaponTimeBase( void )
 {
@@ -135,6 +135,7 @@ float UTIL_SharedRandomFloat( unsigned int seed, float low, float high )
 		return ( low + offset * range );
 	}
 }
+
 void UTIL_ParametricRocket( entvars_t *pev, Vector vecOrigin, Vector vecAngles, edict_t *owner )
 {	
 	pev->startpos = vecOrigin;
@@ -154,6 +155,7 @@ void UTIL_ParametricRocket( entvars_t *pev, Vector vecOrigin, Vector vecAngles, 
 	pev->starttime = gpGlobals->time;
 	pev->impacttime = gpGlobals->time + travelTime;
 }
+
 int g_groupmask = 0;
 int g_groupop = 0;
 

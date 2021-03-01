@@ -16,7 +16,7 @@
 #ifndef CUSTOM_H
 #define CUSTOM_H
 
-#include "common/const.h"
+#include "const.h"
 
 #define MAX_QPATH 64    // Must match value in quakedefs.h
 

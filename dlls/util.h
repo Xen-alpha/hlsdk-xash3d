@@ -28,14 +28,10 @@
 
 #include <string.h>
 #include <ctype.h>
-#include <engine/edict.h>
-#include <engine/progdefs.h>
-
 inline void MESSAGE_BEGIN( int msg_dest, int msg_type, const float *pOrigin, entvars_t *ent );  // implementation later in this file
-#ifdef CLIENT_DLL
 
 extern globalvars_t				*gpGlobals;
-#endif
+
 // Use this instead of ALLOC_STRING on constant strings
 #define STRING(offset)		(const char *)(gpGlobals->pStringBase + (int)offset)
 
@@ -389,9 +385,8 @@ extern void UTIL_StripToken( const char *pKey, char *pDest );// for redundant ke
 // Misc functions
 extern void SetMovedir(entvars_t* pev);
 extern Vector VecBModelOrigin( entvars_t* pevBModel );
-#ifndef CLIENT_DLL
 extern int BuildChangeList( LEVELLIST *pLevelList, int maxList );
-#endif
+
 //
 // How did I ever live without ASSERT?
 //
@@ -404,7 +399,7 @@ void DBG_AssertFunction(BOOL fExpr, const char* szExpr, const char* szFile, int 
 #define ASSERTSZ(f, sz)
 #endif	// !DEBUG
 
-//extern DLL_GLOBAL const Vector g_vecZero;
+extern DLL_GLOBAL const Vector g_vecZero;
 
 //
 // Constants that were used only by QC (maybe not used at all now)
@@ -523,9 +518,8 @@ int SENTENCEG_Lookup(const char *sample, char *sentencenum);
 
 void TEXTURETYPE_Init();
 char TEXTURETYPE_Find(char *name);
-#ifndef CLIENT_DLL
 float TEXTURETYPE_PlaySound(TraceResult *ptr,  Vector vecSrc, Vector vecEnd, int iBulletType);
-#endif
+
 // NOTE: use EMIT_SOUND_DYN to set the pitch of a sound. Pitch of 100
 // is no pitch shift.  Pitch > 100 up to 255 is a higher pitch, pitch < 100
 // down to 1 is a lower pitch.   150 to 70 is the realistic range.
